@@ -20,7 +20,8 @@ want to organized all of that stuff? Try t-tracker -- A python program that keep
 clone the repo
 
 ```sh
-https://github.com/Mudap10/t-tracker
+git clone https://github.com/Mudap10/t-tracker
+cd t-tracker
 ```
 
 ## Usage example 
